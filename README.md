@@ -50,6 +50,4 @@ Based on the Feature Importance analysis from the Random Forest model, the top d
 * **Target High-Value Groups:** Customers paying >$70/month are sensitive. A dedicated support line or loyalty perks could reduce their churn rate.
 * **Onboarding Care:** Since low-tenure customers leave easily, improve the onboarding experience during the first 6 months.
 
----
 
-## 📂 Project Structure
