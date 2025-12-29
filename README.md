@@ -6,7 +6,7 @@ Customer retention is one of the key challenges in the telecommunication industr
 By identifying at-risk customers early, businesses can proactively implement retention strategies, such as offering targeted promotions or contract modifications.
 
 ## 🛠 Tools & Technologies
-* **Language:** Python 3.x
+* **Language:** Python 
 * **Data Manipulation:** Pandas, NumPy
 * **Database Simulation:** SQLite, SQL
 * **Visualization:** Matplotlib, Seaborn
